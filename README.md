@@ -130,8 +130,10 @@ SafePay/
 ##  Screenshots
 
 <div style="display: flex; flex-direction: row;">
-  <img  style="margin-bottom: 10px;" src="04_Screenshots/Captura de pantalla 2025-09-20 122612.png" alt="project" width="600" height="550">
-  <img  style="margin-bottom: 10px;" src="04_Screenshots/Captura de pantalla 2025-09-20 122927.png" width="600" height="550">
+  <img  style="margin-bottom: 10px;" src="04_Screenshots/Captura de pantalla 2025-10-04 220717.png" alt="project" width="600" height="550">
+  <img  style="margin-bottom: 10px;" src="04_Screenshots/Captura de pantalla 2025-10-04 221008.png" width="600" height="550">
+  <img  style="margin-bottom: 10px;" src="04_Screenshots/Captura de pantalla 2025-10-04 221042.png" width="600" height="550">
+  <img  style="margin-bottom: 10px;" src="04_Screenshots/Captura de pantalla 2025-10-04 221240.png" width="600" height="550">
 
 
 > All datasets are synthetic. No real secrets or PII.
@@ -143,6 +145,7 @@ PCI DSS v4.0:
 [PCI SSC Document](https://www.middlebury.edu/sites/default/files/2025-01/PCI-DSS-v4_0_1.pdf)
 
 ---
+
 
 
 
