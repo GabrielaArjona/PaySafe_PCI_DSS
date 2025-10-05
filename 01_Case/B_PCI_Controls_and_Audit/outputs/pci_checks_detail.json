@@ -1,0 +1,35 @@
+{
+  "run_ts": "2025-10-01T16:48:26.284239Z",
+  "checks": [
+    {
+      "id": "CHK-001",
+      "name": "tokenized_file_present",
+      "result": "PASS",
+      "details": "C:\\Project\\SafePay\\01_Case\\A_Payment_Dataflow\\outputs\\tokenized_payments.csv"
+    },
+    {
+      "id": "CHK-002",
+      "name": "baseline_present",
+      "result": "PASS",
+      "details": "C:\\Project\\SafePay\\01_Case\\B_PCI_Controls_and_Audit"
+    },
+    {
+      "id": "CHK-003",
+      "name": "pan_leak_check",
+      "result": "PASS",
+      "details": "No PAN-like sequences found"
+    },
+    {
+      "id": "CHK-004",
+      "name": "token_uniqueness",
+      "result": "PASS",
+      "details": "total=1200, unique=1200"
+    },
+    {
+      "id": "CHK-005",
+      "name": "status_counts",
+      "result": "INFO",
+      "details": "{\"failed\": 423, \"success\": 398, \"declined\": 379}"
+    }
+  ]
+}

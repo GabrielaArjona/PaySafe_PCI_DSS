@@ -1,0 +1,7 @@
+artifact_path,artifact_type,control_id,run_id,timestamp_utc,sha256,signer,environment,pii_flag,notes
+01_Case\A_Payment_Dataflow\outputs\tokenized_payments.csv,csv,,20251003T133912Z,2025-10-03T13:39:12Z,b898f6383de06ff75c2ddc98bfb39523c8e6be20ba58ff2d2b976b9834171688, G.Arjona / GRC,non-prod,synthetic,
+01_Case\A_Payment_Dataflow\outputs\validation_report.csv,csv,,20251003T133912Z,2025-10-03T13:39:12Z,ccd27d0d9ad710f0fb7a11866f7bc82f5366c4ea8364d40a980d5c2ae4547093, G.Arjona / GRC,non-prod,synthetic,
+01_Case\B_PCI_Controls_and_Audit\outputs\pci_checks_detail.json,json,,20251003T133912Z,2025-10-03T13:39:12Z,4123156f86371458cdf0a793e10edcbe0b530a3653cf884921d61480940fb575, G.Arjona / GRC,non-prod,synthetic,
+01_Case\B_PCI_Controls_and_Audit\outputs\pci_evidence.csv,csv,,20251003T133912Z,2025-10-03T13:39:12Z,dcf758b30b3e00fbb034b8a7bb02c0766cea8e755da2dbf5f5ade2174a421f0c, G.Arjona / GRC,non-prod,synthetic,
+01_Case\C_SQL_Audit_and_Analytics\outputs\DSAR_customer_250_information.csv,csv,,20251003T133912Z,2025-10-03T13:39:12Z,9f041b7f6559678afb29affbe014d838302d263ce7d32441c9c191420fb6f601, G.Arjona / GRC,non-prod,synthetic,
+01_Case\C_SQL_Audit_and_Analytics\outputs\retention_candidates.csv,csv,,20251003T133912Z,2025-10-03T13:39:12Z,1697449f804e73586c9e492114b72294d7d993ec848d48a0263ab62d42931bc6, G.Arjona / GRC,non-prod,synthetic,

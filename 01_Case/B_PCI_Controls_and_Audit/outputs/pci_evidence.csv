@@ -1,0 +1,6 @@
+check_id,check_name,result,details
+CHK-001,tokenized_file_present,PASS,C:\Project\SafePay\01_Case\A_Payment_Dataflow\outputs\tokenized_payments.csv
+CHK-002,baseline_present,PASS,C:\Project\SafePay\01_Case\B_PCI_Controls_and_Audit
+CHK-003,pan_leak_check,PASS,No PAN-like sequences found
+CHK-004,token_uniqueness,PASS,"total=1200, unique=1200"
+CHK-005,status_counts,INFO,"{""failed"": 423, ""success"": 398, ""declined"": 379}"

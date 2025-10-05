@@ -1,0 +1,26 @@
+customer_id,full_name,email,last_order_date,marketing_opt_in,created_at,payment_pk,customer_id,merchant_txid,amount,status,created_at,token,last4,card_type,order_pk,customer_id,order_id,amount,status,order_date
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,16,250,TX-00000016,279.23,success,2023-02-04,cd03e29ba583aa6790ffec66,9397,mastercard,172,250,ORD-000172,52.54,refunded,2022-11-26
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,16,250,TX-00000016,279.23,success,2023-02-04,cd03e29ba583aa6790ffec66,9397,mastercard,564,250,ORD-000564,79.3,failed,2024-08-02
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,16,250,TX-00000016,279.23,success,2023-02-04,cd03e29ba583aa6790ffec66,9397,mastercard,708,250,ORD-000708,98.74,failed,2022-08-28
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,16,250,TX-00000016,279.23,success,2023-02-04,cd03e29ba583aa6790ffec66,9397,mastercard,958,250,ORD-000958,62.96,failed,2022-10-09
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,16,250,TX-00000016,279.23,success,2023-02-04,cd03e29ba583aa6790ffec66,9397,mastercard,1477,250,ORD-001477,87.16,pending,2021-11-27
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,60,250,TX-00000060,83.64,success,2024-05-03,d3165f808e60e5055a33aed9,7623,mastercard,172,250,ORD-000172,52.54,refunded,2022-11-26
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,60,250,TX-00000060,83.64,success,2024-05-03,d3165f808e60e5055a33aed9,7623,mastercard,564,250,ORD-000564,79.3,failed,2024-08-02
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,60,250,TX-00000060,83.64,success,2024-05-03,d3165f808e60e5055a33aed9,7623,mastercard,708,250,ORD-000708,98.74,failed,2022-08-28
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,60,250,TX-00000060,83.64,success,2024-05-03,d3165f808e60e5055a33aed9,7623,mastercard,958,250,ORD-000958,62.96,failed,2022-10-09
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,60,250,TX-00000060,83.64,success,2024-05-03,d3165f808e60e5055a33aed9,7623,mastercard,1477,250,ORD-001477,87.16,pending,2021-11-27
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,160,250,TX-00000160,108.41,declined,2023-07-13,9438dd34ade8678d2cbc76bf,5068,visa,172,250,ORD-000172,52.54,refunded,2022-11-26
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,160,250,TX-00000160,108.41,declined,2023-07-13,9438dd34ade8678d2cbc76bf,5068,visa,564,250,ORD-000564,79.3,failed,2024-08-02
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,160,250,TX-00000160,108.41,declined,2023-07-13,9438dd34ade8678d2cbc76bf,5068,visa,708,250,ORD-000708,98.74,failed,2022-08-28
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,160,250,TX-00000160,108.41,declined,2023-07-13,9438dd34ade8678d2cbc76bf,5068,visa,958,250,ORD-000958,62.96,failed,2022-10-09
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,160,250,TX-00000160,108.41,declined,2023-07-13,9438dd34ade8678d2cbc76bf,5068,visa,1477,250,ORD-001477,87.16,pending,2021-11-27
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,252,250,TX-00000252,46.83,declined,2024-06-02,fa682694a128ee8c452878aa,2669,mastercard,172,250,ORD-000172,52.54,refunded,2022-11-26
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,252,250,TX-00000252,46.83,declined,2024-06-02,fa682694a128ee8c452878aa,2669,mastercard,564,250,ORD-000564,79.3,failed,2024-08-02
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,252,250,TX-00000252,46.83,declined,2024-06-02,fa682694a128ee8c452878aa,2669,mastercard,708,250,ORD-000708,98.74,failed,2022-08-28
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,252,250,TX-00000252,46.83,declined,2024-06-02,fa682694a128ee8c452878aa,2669,mastercard,958,250,ORD-000958,62.96,failed,2022-10-09
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,252,250,TX-00000252,46.83,declined,2024-06-02,fa682694a128ee8c452878aa,2669,mastercard,1477,250,ORD-001477,87.16,pending,2021-11-27
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,619,250,TX-00000619,192.18,success,2021-08-29,a57c4a2f68c58a8c1284e6fc,9444,visa,172,250,ORD-000172,52.54,refunded,2022-11-26
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,619,250,TX-00000619,192.18,success,2021-08-29,a57c4a2f68c58a8c1284e6fc,9444,visa,564,250,ORD-000564,79.3,failed,2024-08-02
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,619,250,TX-00000619,192.18,success,2021-08-29,a57c4a2f68c58a8c1284e6fc,9444,visa,708,250,ORD-000708,98.74,failed,2022-08-28
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,619,250,TX-00000619,192.18,success,2021-08-29,a57c4a2f68c58a8c1284e6fc,9444,visa,958,250,ORD-000958,62.96,failed,2022-10-09
+250,Jamie Hernandez,jamie.hernandez250@payguard.com,2023-05-19,0,2024-09-17,619,250,TX-00000619,192.18,success,2021-08-29,a57c4a2f68c58a8c1284e6fc,9444,visa,1477,250,ORD-001477,87.16,pending,2021-11-27

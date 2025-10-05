@@ -1,0 +1,7 @@
+{
+  "tokenization": true,
+  "store_pan": false,
+  "log_tokenization": true,
+  "key_rotation_months": 12,
+  "access_review_freq": "monthly"
+}

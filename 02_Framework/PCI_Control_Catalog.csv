@@ -1,0 +1,7 @@
+control_id,control_name,pci_reqs,description,owner,evidence_path,frequency
+PCI-CC-01,Tokenization Implementation,Req 3,Ensure tokens are used instead of PAN; token mapping stored only in token service/HSM.,Payments Ops,01_Case_PayGuard/A_Payment_Dataflow_and_Tokenization/outputs/tokenized_payments.csv,Continuous
+PCI-AC-01,Access Control - Admin,Req 7/8,Restrict administrative access to tokenization/detokenization functions via RBAC and 2FA.,Security,02_Frameworks/SoA_PCI.xlsx,Quarterly
+PCI-LOG-01,Event Logging,Req 10,"Log tokenization/detokenization events, admin actions, and export events. Retain per policy.",Security/DevOps,01_Case_PayGuard/A_Payment_Dataflow_and_Tokenization/outputs/validation_report.csv,Continuous
+PCI-EN-01,Encryption in Transit,Req 4,TLS 1.2+ for all services transmitting card data. ,Network,02_Frameworks/PCI_Config_Baseline.yaml,Annually/On change
+PCI-VM-01,Vulnerability Management,Req 11,Periodic scanning and remediation of vulnerabilities for in-scope systems.,Security,01_Case_PayGuard/B_PCI_Controls_and_Audit/outputs/pci_evidence.csv,Monthly
+PCI-VND-01,Third-Party Vendor Assessment,Req 12.8,"Assess vendors (PSP, tokenization providers) for PCI compliance or equivalent assurances.",Procurement/GRC,02_Frameworks/Vendor_Assessment_Checklist.csv,Pre-onboard and Annual

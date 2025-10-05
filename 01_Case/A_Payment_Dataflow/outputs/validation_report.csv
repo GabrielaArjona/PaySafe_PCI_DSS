@@ -1,0 +1,5 @@
+check,result,details
+token_file_exists,True,rows=1200
+pan_leak_detected,True,No PAN-like sequences found in tokenized file
+token_uniqueness,True,"total=1200, unique=1200"
+status_counts,True,"{""failed"": 423, ""success"": 398, ""declined"": 379}"
